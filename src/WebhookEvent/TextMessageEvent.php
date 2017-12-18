@@ -9,7 +9,7 @@ use Kiwi26\LINEBotTestHelper\WebhookEvent;
 *
 * Implementations are in MessageEvent namespace.
 *
-* @package Kiwi26\LINEBotTestHelper\StockHTTPClient
+* @package Kiwi26\LINEBotTestHelper\WebhookEvent
 */
 
 class TextMessageEvent extends WebhookEvent
